@@ -6,7 +6,7 @@
 :man_technologist: **Atualmente em:** 
 Grau Educacional como Desenvolvedor PHP
 
-<h4>⭐Hard Skills:</h4> 
+### ⭐Hard Skills:
 <div style="display: flex; gap: 10px; margin-bottom: 16px">
   <i class="devicon-html5-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i> 
   <i class="devicon-css3-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i> 
@@ -17,31 +17,31 @@ Grau Educacional como Desenvolvedor PHP
   <i class="devicon-moodle-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i>
   <i class="devicon-mysql-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i>
   <i class="devicon-git-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i>
-    <i style=" font-size: 24px; background-color: #8a2be2; padding:  8px; color: white" class="devicon-github-original" ></i>
+  <i style=" font-size: 24px; background-color: #8a2be2; padding:  8px; color: white" class="devicon-github-original" ></i>
 </div>
 
 
  
- <div style="display: flex; gap: 120px; margin-bottom: 16px">
- <div>
-  <h4>🚀 Estudando no momento:</h4> 
-  <div style="display: flex; gap: 10px; margin-bottom: 16px">
-    <i class="devicon-react-original" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i> 
-    <i class="devicon-typescript-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i> 
-    <i class="devicon-express-original" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i> 
-    <i class="devicon-nodejs-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i> 
+ <p align="left">
+  <div>
+    <h4>🚀 Estudando no momento:</h4> 
+    <p align="left">
+      <i class="devicon-react-original" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i> 
+      <i class="devicon-typescript-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i> 
+      <i class="devicon-express-original" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i> 
+      <i class="devicon-nodejs-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i> 
+    </p>
   </div>
-</div>
-<div>
-  <h4>🏔️ Interesses Futuros:</h4> 
-  <div style="display: flex; gap: 10px; margin-bottom: 16px"> 
-    <!-- <i class="devicon-doctrine-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i> -->
-    <i class="devicon-electron-original" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i>        
-    <i class="devicon-elixir-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i>        
-    <i class="devicon-mongodb-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i>        
+  <div>
+    <h4>🏔️ Interesses Futuros:</h4> 
+    <p align="left"> 
+      <!-- <i class="devicon-doctrine-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i> -->
+      <i class="devicon-electron-original" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i>        
+      <i class="devicon-elixir-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i>        
+      <i class="devicon-mongodb-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i>        
+    </p>
   </div>
-  </div>
- </div>
+ </p>
 
 #### :link: Links para contato:
 
