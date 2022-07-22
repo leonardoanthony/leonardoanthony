@@ -4,19 +4,13 @@
 Grau Educacional como Desenvolvedor PHP
 
 #### ⭐Hard Skills:
-      HTML5 | CSS3 | JavaScript | JQuery
-      Bootstrap | Materialize
-      PHP | Moodle | MySql
-      Git | Github
+      HTML5 | CSS3 | JavaScript | JQuery | Bootstrap | Materialize | PHP | Moodle | MySql | Git | Github
 
 #### 🚀 Estudando no momento: 
       React | Typescript | Express | Node | React Native
-  [![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
-  [![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skills.thijs.gg)
-
 #### 🏔️ Interesses Futuros:
       Electron | Elixir | MongoDB | ...
-
+ 
 #### :link: Links para contato:
 
 <p align="left">
