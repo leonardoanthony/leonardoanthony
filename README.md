@@ -11,6 +11,8 @@ Grau Educacional como Desenvolvedor PHP
 
 #### 🚀 Estudando no momento: 
       React | Typescript | Express | Node | React Native
+  [![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+  [![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skills.thijs.gg)
 
 #### 🏔️ Interesses Futuros:
       Electron | Elixir | MongoDB | ...
