@@ -20,28 +20,16 @@ Grau Educacional como Desenvolvedor PHP
   <i style=" font-size: 24px; background-color: #8a2be2; padding:  8px; color: white" class="devicon-github-original" ></i>
 </div>
 
+  #### 🚀 Estudando no momento: 
+      React | Typescript | Express | Node | React Native
 
- 
- <p align="left">
-  <div>
-    <h4>🚀 Estudando no momento:</h4> 
-    <p align="left">
-      <i class="devicon-react-original" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i> 
-      <i class="devicon-typescript-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i> 
-      <i class="devicon-express-original" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i> 
-      <i class="devicon-nodejs-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i> 
-    </p>
-  </div>
-  <div>
-    <h4>🏔️ Interesses Futuros:</h4> 
-    <p align="left"> 
-      <!-- <i class="devicon-doctrine-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i> -->
-      <i class="devicon-electron-original" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i>        
-      <i class="devicon-elixir-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i>        
-      <i class="devicon-mongodb-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i>        
-    </p>
-  </div>
- </p>
+
+#### 🏔️ Interesses Futuros:
+
+  <!-- <i class="devicon-doctrine-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i> -->
+  <i class="devicon-electron-original" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i>        
+  <i class="devicon-elixir-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i>        
+  <i class="devicon-mongodb-plain" style="font-size: 24px; background-color: #8a2be2; padding: 8px; color: white"></i>        
 
 #### :link: Links para contato:
 
