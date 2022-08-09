@@ -3,27 +3,47 @@
 ### :man_technologist: **Atualmente em:** <br>
 Grau Educacional como Desenvolvedor PHP
 
+<p align="center">
+  <img align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoanthony&layout=compact&title_color=58A6DA&icon_color=8B949E&text_color=8B949E&bg_color=ffffff00"
+    />
+  <img align="center"
+      height="165" src="https://github-readme-stats.vercel.app/api?username=leonardoanthony&show_icons=true&title_color=58A6DA&icon_color=8B949E&text_color=8B949E&bg_color=ffffff00" />
+</p>
 
-<div style="display: flex; justify-content: space-between"><br>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=javascript,css,php,mysql,bootstrap&theme=dark" />
-    </a>
-  </p>
-
-  <a align="right" href="https://app.daily.dev/leondev">
-    <img src="https://api.daily.dev/devcards/d963515284364c079b94e910c64cb9e4.png?r=ibe" width="200" alt="Leonardo Anthony's Dev Card"/>
-  </a>
-
-</div>
 
 <details>
   <summary><b>Ver mais</b></summary>
-  <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoanthony&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoanthony&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  
+### 💻 Hard Skills
+
+<a href="https://app.daily.dev/leonardoanthony">
+<img src="https://github.com/leonardoanthony/leonardoanthony/blob/main/devcard.svg" width="216" align="right" alt="Alexander's Dev Card"/>
+</a>
+
+#### 🎨 Design: <br/>
+   <samp>
+    <p align="left">
+    <img alt="Figma" src="https://skillicons.dev/icons?i=figma&theme=dark" width="32px" />
+    </p>
+  </samp>
+
+#### 💬 Linguagens: <br/>
+   <samp>
+    <p align="left">
+    <img alt="Javascript" src="https://skillicons.dev/icons?i=javascript&theme=dark" width="32px" />
+      <img alt="CSS" src="https://skillicons.dev/icons?i=css&theme=dark" width="32px" />
+      <img alt="PHP" src="https://skillicons.dev/icons?i=php&theme=dark" width="32px" />
+      <img alt="JQuery" src="https://skillicons.dev/icons?i=jquery&theme=dark" width="32px" />
+    </p>
+  </samp>
+
+#### 🔨 Framework: <br/>
+   <samp>
+    <p align="left">
+     <img alt="React" src="https://skillicons.dev/icons?i=react&theme=dark" width="32px" />
+    </p>
+  </samp>
 </details>
  
 #### :link: Links para contato:
