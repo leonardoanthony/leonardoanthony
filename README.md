@@ -5,16 +5,16 @@ Grau Educacional como Desenvolvedor PHP
 
 
 <div style="display: flex; justify-content: space-between"><br>
-  <p align="left">
+  <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=javascript,css,php,mysql,bootstrap&theme=dark" />
     </a>
   </p>
-  <div align="right">
-    <a href="https://app.daily.dev/leondev">
-      <img src="https://api.daily.dev/devcards/d963515284364c079b94e910c64cb9e4.png?r=ibe" width="200" alt="Leonardo Anthony's Dev Card"/>
-    </a>
-  </div>
+
+  <a href="https://app.daily.dev/leondev">
+    <img src="https://api.daily.dev/devcards/d963515284364c079b94e910c64cb9e4.png?r=ibe" width="200" alt="Leonardo Anthony's Dev Card"/>
+  </a>
+
 </div>
 
 <details>
