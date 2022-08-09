@@ -1,13 +1,13 @@
-### Olá Mundo! :v:, Eu sou o Leo
+## Olá Mundo! :v:, Eu sou o Leo
 
-:man_technologist: **Atualmente em:** 
+### :man_technologist: **Atualmente em:** <br>
 Grau Educacional como Desenvolvedor PHP
 
 
 <div style="display: flex; justify-content: space-between"><br>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+      <img src="https://skillicons.dev/icons?i=javascript,css,php,mysql,bootstrap&theme=dark" />
     </a>
   </p>
   <div align="right">
