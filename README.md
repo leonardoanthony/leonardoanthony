@@ -3,17 +3,6 @@
 ### :man_technologist: **Atualmente em:** <br>
 Grau Educacional como Desenvolvedor PHP
 
-<p align="center">
-  <img align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoanthony&layout=compact&title_color=58A6DA&icon_color=8B949E&text_color=8B949E&bg_color=ffffff00"
-    />
-  <img align="center"
-      height="165" src="https://github-readme-stats.vercel.app/api?username=leonardoanthony&show_icons=true&title_color=58A6DA&icon_color=8B949E&text_color=8B949E&bg_color=ffffff00" />
-</p>
-
-
-<details>
-  <summary><b>Ver mais</b></summary>
   
 ### 💻 Hard Skills
 
@@ -44,8 +33,27 @@ Grau Educacional como Desenvolvedor PHP
      <img alt="React" src="https://skillicons.dev/icons?i=react&theme=dark" width="32px" />
     </p>
   </samp>
-</details>
+
+## Github stats 📊
+
+<details>
+  <summary><b>Profile </b></summary>
  
+  <p align="center">
+  <img align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoanthony&layout=compact&title_color=58A6DA&icon_color=8B949E&text_color=8B949E&bg_color=ffffff00"
+    />
+  <img align="center"
+      height="165" src="https://github-readme-stats.vercel.app/api?username=leonardoanthony&show_icons=true&title_color=58A6DA&icon_color=8B949E&text_color=8B949E&bg_color=ffffff00" />
+</p>
+</details>
+
+<details>
+  <summary>Activity</summary>
+  <br/>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="leonardoanthony's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=leonardoanthony&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
+</details>
+
 #### :link: Links para contato:
 
 <p align="left">
