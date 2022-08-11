@@ -1,6 +1,6 @@
 ## Olá Mundo! :v:, Eu sou o Leo
 
-### :man_technologist: **Atualmente em:** <br>
+##  **Atualmente em:** :man_technologist: <br>
 Grau Educacional como Desenvolvedor PHP
 
   
@@ -10,27 +10,34 @@ Grau Educacional como Desenvolvedor PHP
 <img src="https://github.com/leonardoanthony/leonardoanthony/blob/main/devcard.svg" width="216" align="right" alt="Alexander's Dev Card"/>
 </a>
 
-#### 🎨 Design: <br/>
-   <samp>
-    <p align="left">
-    <img alt="Figma" src="https://skillicons.dev/icons?i=figma&theme=dark" width="32px" />
-    </p>
-  </samp>
-
-#### 💬 Linguagens: <br/>
+#### 🔥 Stacks: <br/>
    <samp>
     <p align="left">
     <img alt="Javascript" src="https://skillicons.dev/icons?i=javascript&theme=dark" width="32px" />
       <img alt="CSS" src="https://skillicons.dev/icons?i=css&theme=dark" width="32px" />
       <img alt="PHP" src="https://skillicons.dev/icons?i=php&theme=dark" width="32px" />
       <img alt="JQuery" src="https://skillicons.dev/icons?i=jquery&theme=dark" width="32px" />
+      <img alt="bootstrap" src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="32px" />
+      <img alt="Mysql" src="https://skillicons.dev/icons?i=mysql&theme=dark" width="32px" />
     </p>
   </samp>
 
-#### 🔨 Framework: <br/>
+#### 🔨 Tools: <br/>
    <samp>
     <p align="left">
-     <img alt="React" src="https://skillicons.dev/icons?i=react&theme=dark" width="32px" />
+      <img alt="Figma" src="https://skillicons.dev/icons?i=figma&theme=dark" width="32px" />
+      <img alt="git" src="https://skillicons.dev/icons?i=git&theme=dark" width="32px" />
+      <img alt="github" src="https://skillicons.dev/icons?i=github&theme=dark" width="32px" />
+    </p>
+  </samp>
+  
+  #### 📚 Studying: <br/>
+  
+  <samp>
+    <p align="left">
+    <img alt="TypeScript" src="https://skillicons.dev/icons?i=typescript&theme=dark" width="32px" />
+      <img alt="React" src="https://skillicons.dev/icons?i=react" width="32px" />
+      <img alt="laravel" src="https://skillicons.dev/icons?i=laravel" width="32px" />
     </p>
   </samp>
 
