@@ -19,6 +19,9 @@ Grau Educacional como Desenvolvedor PHP
       <img alt="JQuery" src="https://skillicons.dev/icons?i=jquery&theme=dark" width="32px" />
       <img alt="bootstrap" src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="32px" />
       <img alt="Mysql" src="https://skillicons.dev/icons?i=mysql&theme=dark" width="32px" />
+      <img alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="32px" />
+      <img alt="TypeScript" src="https://skillicons.dev/icons?i=typescript&theme=dark" width="32px" />
+      <img alt="React" src="https://skillicons.dev/icons?i=react" width="32px" />
     </p>
   </samp>
 
@@ -35,9 +38,9 @@ Grau Educacional como Desenvolvedor PHP
   
   <samp>
     <p align="left">
-    <img alt="TypeScript" src="https://skillicons.dev/icons?i=typescript&theme=dark" width="32px" />
-      <img alt="React" src="https://skillicons.dev/icons?i=react" width="32px" />
-      <img alt="laravel" src="https://skillicons.dev/icons?i=laravel" width="32px" />
+      <img alt="Next" src="https://skillicons.dev/icons?i=next&theme=dark" width="32px" />
+      <img alt="Solidity" src="https://skillicons.dev/icons?i=solidity" width="32px" />
+      <img alt="node" src="https://skillicons.dev/icons?i=nodejs" width="32px" />
     </p>
   </samp>
 
