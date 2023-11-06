@@ -61,7 +61,7 @@ Grau Educacional como Desenvolvedor PHP
 <details>
   <summary>Activity</summary>
   <br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="leonardoanthony's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=leonardoanthony&theme=github&hide_border=true" /></a>
+<img alt="leonardoanthony's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoanthony&theme=github&border=none" />
 </details>
 
 #### :link: Links para contato:
