@@ -1,8 +1,4 @@
 ## Olá Mundo! :v:, Eu sou o Leo
-
-##  **Atualmente em:** :man_technologist: <br>
-Grau Educacional como Desenvolvedor PHP
-
   
 ### 💻 Hard Skills
 
