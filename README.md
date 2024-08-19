@@ -10,16 +10,19 @@
    <samp>
     <p align="left">
     <img alt="Javascript" src="https://skillicons.dev/icons?i=javascript&theme=dark" width="32px" />
+      <img alt="TypeScript" src="https://skillicons.dev/icons?i=typescript&theme=dark" width="32px" />
+      <img alt="React" src="https://skillicons.dev/icons?i=react" width="32px" />
+      <img alt="node" src="https://skillicons.dev/icons?i=nodejs" width="32px" />
+      <br>
       <img alt="CSS" src="https://skillicons.dev/icons?i=css&theme=dark" width="32px" />
       <img alt="bootstrap" src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="32px" />
       <img alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="32px" />
       <img alt="Styled" src="https://skillicons.dev/icons?i=styledcomponents&theme=dark" width="32px" />
+      <br>
       <img alt="Mysql" src="https://skillicons.dev/icons?i=mysql&theme=dark" width="32px" />
       <img alt="postgres" src="https://skillicons.dev/icons?i=postgres&theme=dark" width="32px" />
       <img alt="mongo" src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="32px" />
-      <img alt="TypeScript" src="https://skillicons.dev/icons?i=typescript&theme=dark" width="32px" />
-      <img alt="React" src="https://skillicons.dev/icons?i=react" width="32px" />
-      <img alt="node" src="https://skillicons.dev/icons?i=nodejs" width="32px" />
+      <br>
       <img alt="PHP" src="https://skillicons.dev/icons?i=php&theme=dark" width="32px" />
     </p>
   </samp>
