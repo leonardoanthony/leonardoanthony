@@ -2,8 +2,8 @@
   
 ### 💻 Hard Skills
 
-<a href="https://app.daily.dev/leonardoanthony">
-<img src="https://github.com/leonardoanthony/leonardoanthony/blob/main/devcard.svg" width="216" align="right" alt="Alexander's Dev Card"/>
+<a href="https://app.daily.dev/leondev">
+<img src="https://api.daily.dev/devcards/v2/mS2nUCeDRF2RgeJpgcLhI.png?type=default&r=1cl" width="216" align="right" alt="Leonardo Anthony's Dev Card"/>
 </a>
 
 #### 🔥 Stacks: <br/>
