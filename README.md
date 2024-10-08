@@ -13,6 +13,7 @@
       <img alt="TypeScript" src="https://skillicons.dev/icons?i=typescript&theme=dark" width="32px" />
       <img alt="React" src="https://skillicons.dev/icons?i=react" width="32px" />
       <img alt="node" src="https://skillicons.dev/icons?i=nodejs" width="32px" />
+      <img alt="Solidity" src="https://skillicons.dev/icons?i=solidity" width="32px" />
       <br>
       <img alt="CSS" src="https://skillicons.dev/icons?i=css&theme=dark" width="32px" />
       <img alt="bootstrap" src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="32px" />
@@ -42,7 +43,7 @@
   <samp>
     <p align="left">
       <img alt="Next" src="https://skillicons.dev/icons?i=next&theme=dark" width="32px" />
-      <img alt="Solidity" src="https://skillicons.dev/icons?i=solidity" width="32px" />
+      <img alt="Azure" src="https://skillicons.dev/icons?i=azure" width="32px" />
       <img alt="Nest" src="https://skillicons.dev/icons?i=nestjs" width="32px" />
     </p>
   </samp>
