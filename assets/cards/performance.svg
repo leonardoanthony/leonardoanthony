@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="176" viewBox="0 0 420 176" role="img" aria-label="Atacama Performance">
+  <style>
+    .sans{font-family:Inter,"Segoe UI",-apple-system,Helvetica,Arial,sans-serif}
+    .mono{font-family:"JetBrains Mono",SFMono-Regular,Menlo,Consolas,monospace}
+    .card{animation:in .7s ease-out both}
+    @keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+    .glow{animation:g 3.5s ease-in-out infinite}
+    @keyframes g{0%,100%{opacity:.16}50%{opacity:.36}}
+    .ic{stroke-dasharray:80;stroke-dashoffset:80;animation:draw 1.4s ease-out .3s forwards}
+    @keyframes draw{to{stroke-dashoffset:0}}
+    .pulse{animation:p 2s ease-in-out infinite}
+    @keyframes p{50%{opacity:.3}}
+  </style>
+  <defs><radialGradient id="gl" cx="10%" cy="18%" r="70%"><stop offset="0" stop-color="#ea5c2d"/><stop offset="1" stop-color="#ea5c2d" stop-opacity="0"/></radialGradient></defs>
+  <g class="card">
+    <rect x=".5" y=".5" width="419" height="175" rx="14" fill="#131318" stroke="#fff" stroke-opacity=".1"/>
+    <rect class="glow" x=".5" y=".5" width="419" height="175" rx="14" fill="url(#gl)"/>
+    <rect x="20" y="20" width="46" height="46" rx="11" fill="#ea5c2d" fill-opacity=".16" stroke="#ea5c2d" stroke-opacity=".45"/>
+    <g class="ic" transform="translate(31 31)" fill="none" stroke="#f2774a" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></g>
+    <text x="80" y="40" class="sans" font-size="21" font-weight="700" fill="#ececf1">Atacama Performance</text>
+    <circle class="pulse" cx="86" cy="58" r="4" fill="#30d158"/>
+    <text x="97" y="63" class="mono" font-size="13.5" fill="#30d158">no ar · Atacama</text>
+    <text x="20" y="102" class="sans" font-size="16" fill="#b3b3be">Anúncios, leads e vendas num só painel:</text>
+    <text x="20" y="125" class="sans" font-size="16" fill="#b3b3be">quanto a mídia volta em cliente.</text>
+    <text x="20" y="156" class="mono" font-size="13.5" fill="#f2774a">Next.js · Supabase · Railway</text>
+  </g>
+</svg>

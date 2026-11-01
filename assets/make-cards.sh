@@ -1,0 +1,43 @@
+#!/bin/bash
+# Cards de projetos construídos, com o ícone de serviço do leonardoanthony.dev
+cd "$(dirname "$0")"; source ./icons.sh
+rm -f cards/*.svg; mkdir -p cards; cd cards
+G="#30d158"; S="#9a9aa6"
+card(){ # file icon title line1 line2 tags status statusColor
+cat > "$1.svg" <<EOF
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="176" viewBox="0 0 420 176" role="img" aria-label="$3">
+  <style>
+    .sans{font-family:Inter,"Segoe UI",-apple-system,Helvetica,Arial,sans-serif}
+    .mono{font-family:"JetBrains Mono",SFMono-Regular,Menlo,Consolas,monospace}
+    .card{animation:in .7s ease-out both}
+    @keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+    .glow{animation:g 3.5s ease-in-out infinite}
+    @keyframes g{0%,100%{opacity:.16}50%{opacity:.36}}
+    .ic{stroke-dasharray:80;stroke-dashoffset:80;animation:draw 1.4s ease-out .3s forwards}
+    @keyframes draw{to{stroke-dashoffset:0}}
+    .pulse{animation:p 2s ease-in-out infinite}
+    @keyframes p{50%{opacity:.3}}
+  </style>
+  <defs><radialGradient id="gl" cx="10%" cy="18%" r="70%"><stop offset="0" stop-color="#ea5c2d"/><stop offset="1" stop-color="#ea5c2d" stop-opacity="0"/></radialGradient></defs>
+  <g class="card">
+    <rect x=".5" y=".5" width="419" height="175" rx="14" fill="#131318" stroke="#fff" stroke-opacity=".1"/>
+    <rect class="glow" x=".5" y=".5" width="419" height="175" rx="14" fill="url(#gl)"/>
+    <rect x="20" y="20" width="46" height="46" rx="11" fill="#ea5c2d" fill-opacity=".16" stroke="#ea5c2d" stroke-opacity=".45"/>
+    <g class="ic" transform="translate(31 31)" fill="none" stroke="#f2774a" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">$(icon $2)</g>
+    <text x="80" y="40" class="sans" font-size="21" font-weight="700" fill="#ececf1">$3</text>
+    <circle class="pulse" cx="86" cy="58" r="4" fill="$8"/>
+    <text x="97" y="63" class="mono" font-size="13.5" fill="$8">$7</text>
+    <text x="20" y="102" class="sans" font-size="16" fill="#b3b3be">$4</text>
+    <text x="20" y="125" class="sans" font-size="16" fill="#b3b3be">$5</text>
+    <text x="20" y="156" class="mono" font-size="13.5" fill="#f2774a">$6</text>
+  </g>
+</svg>
+EOF
+}
+card performance sistema    "Atacama Performance"   "Anúncios, leads e vendas num só painel:"   "quanto a mídia volta em cliente."              "Next.js · Supabase · Railway"            "no ar · Atacama"  "$G"
+card alma        automacao  "Alma · Agente de IA"   "Atende no WhatsApp os leads do tráfego" "pago e pré-qualifica para o comercial."      "n8n · IA · Redis · WhatsApp"             "no ar · Atacama"  "$G"
+card galo        site       "Galo da Madrugada"     "Bloco de carnaval do Recife: história," "carnaval, eventos e notícias."       "WordPress"                               "no ar · Atacama"  "$G"
+card rede-grau   site       "Sites da rede Grau"    "Técnico, Profissionalizante, Faculdade," "Colégio, Vagas, Feiras e mais." "Next.js · Payload CMS · Laravel"         "no ar · Grau"     "$G"
+card sistemas-grau sistema  "Sistemas internos Grau" "Apoio ao franqueado, gestão comercial," "credenciamento e desempenho do RH."           "PHP · Laravel · MySQL"                   "uso interno · Grau" "$S"
+card malakoff    ecommerce  "Malakoff"              "Loja de moda do Recife com estampas" "autorais: masculino, feminino e infantil." "Shopify"                             "no ar · pessoal"  "$G"
+echo "cards ok: $(ls | tr '\n' ' ')"

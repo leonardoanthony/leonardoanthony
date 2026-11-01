@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="184" viewBox="0 0 1200 184" role="img" aria-label="Trajetória: Inventare 2021, Grau Educacional 2022–2025, Atacama Digital 2025–hoje">
+  <style>
+    .sans{font-family:Inter,"Segoe UI",-apple-system,Helvetica,Arial,sans-serif}
+    .mono{font-family:"JetBrains Mono",SFMono-Regular,Menlo,Consolas,monospace}
+    .track{stroke-dasharray:1100;stroke-dashoffset:1100;animation:draw 2s ease-out .2s forwards}
+    @keyframes draw{to{stroke-dashoffset:0}}
+    .n{opacity:0;animation:in .6s ease-out forwards}
+    @keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+    .ring{transform-box:fill-box;transform-origin:center;animation:ring 2s ease-out 2.2s infinite}
+    @keyframes ring{from{transform:scale(1);opacity:.7}to{transform:scale(2.6);opacity:0}}
+  </style>
+  <rect width="1200" height="184" rx="14" fill="#0e0e11"/>
+  <rect x=".5" y=".5" width="1199" height="183" rx="13.5" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+  <line x1="80" y1="70" x2="1120" y2="70" stroke="#ffffff" stroke-opacity=".08" stroke-width="2"/>
+  <line class="track" x1="80" y1="70" x2="1120" y2="70" stroke="#ea5c2d" stroke-width="2"/>
+
+  <g class="n" style="animation-delay:.4s">
+    <circle cx="170" cy="70" r="7" fill="#0e0e11" stroke="#9a9aa6" stroke-width="2"/>
+    <text x="170" y="40" text-anchor="middle" class="mono" font-size="19" fill="#8a8a96">2021</text>
+    <text x="170" y="118" text-anchor="middle" class="sans" font-size="25" font-weight="700" fill="#b3b3be">Agência Inventare</text>
+    <text x="170" y="150" text-anchor="middle" class="sans" font-size="20" fill="#8a8a96">PHP Web Developer</text>
+  </g>
+  <g class="n" style="animation-delay:1s">
+    <circle cx="560" cy="70" r="7" fill="#0e0e11" stroke="#b3b3be" stroke-width="2"/>
+    <text x="560" y="40" text-anchor="middle" class="mono" font-size="19" fill="#8a8a96">2022 – 2025</text>
+    <text x="560" y="118" text-anchor="middle" class="sans" font-size="25" font-weight="700" fill="#ececf1">Grau Educacional</text>
+    <text x="560" y="150" text-anchor="middle" class="sans" font-size="20" fill="#9a9aa6">Full Stack Developer</text>
+  </g>
+  <g class="n" style="animation-delay:1.8s">
+    <circle class="ring" cx="1010" cy="70" r="8" fill="#ea5c2d"/>
+    <circle cx="1010" cy="70" r="8" fill="#ea5c2d"/>
+    <text x="1010" y="40" text-anchor="middle" class="mono" font-size="19" fill="#f2774a">2025 – hoje</text>
+    <text x="1010" y="118" text-anchor="middle" class="sans" font-size="25" font-weight="700" fill="#ececf1">Atacama Digital</text>
+    <text x="1010" y="150" text-anchor="middle" class="sans" font-size="20" fill="#f2774a">Martech Engineer</text>
+  </g>
+</svg>
